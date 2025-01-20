@@ -1,0 +1,26 @@
+.heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    justify-content: ;
+    color: aliceblue;
+    padding-left: 50px;
+    padding-right: 50px;
+
+    font-style: italic;
+}
+.marginc{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 450px;
+    margin-right: 450px;
+   
+}
+.ib{
+    border: 5px;
+    border-style: solid ;
+    border-color: aliceblue;
+    
+}
+body{
+    background-color: black;
+}
